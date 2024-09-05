@@ -79,3 +79,12 @@
     </td>
   </tr>
 </table>
+
+<h3>Donate</h3>
+If you like my work and you want to support it, consider giving me a tip.
+<div align="center">
+<br>
+<a href="https://www.paypal.com/donate/?hosted_button_id=T63UK6AVL3MG8">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="100" />
+</a>
+</div>
