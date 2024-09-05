@@ -5,6 +5,12 @@
 <p>
   I am a technology enthusiast and frontend developer (mobile and web). I enjoy learning and discovering new things about this world. In my free time I like to research new features and develop applications for everyone. Some of that applications are available on the Google Play Store and on the App Store.
 </p>
+<div align="center">
+  <a href="https://play.google.com/store/apps/dev?id=6730242602709677331&hl=es" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/google-play.png" height="50px">
+  </a>
+  <img src="./assets/app-store.svg" height="50px">
+</div>
 
 <h3>Technologies</h3>
 <p>Here's a list of the technologies that I use.</p>
@@ -14,13 +20,13 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="./assets/flutter.png" alt="flutter" height="60" />
+      <img src="./assets/flutter.png" alt="flutter" height="60px" />
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/swiftui.png" alt="swiftui" height="60" />
+      <img src="./assets/swiftui.png" alt="swiftui" height="60px" />
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/react.webp" alt="reactjs"  height="60" />
+      <img src="./assets/react.webp" alt="reactjs"  height="60px" />
     </td>
   </tr>
   <tr>
@@ -41,16 +47,16 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="./assets/dart.png" alt="dart" height="60" />
+      <img src="./assets/dart.png" alt="dart" height="60px" />
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/javascript.png" alt="javascript" height="60" />
+      <img src="./assets/javascript.png" alt="javascript" height="60px" />
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/typescript.png" alt="typescript"  height="60" />
+      <img src="./assets/typescript.png" alt="typescript"  height="60px" />
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/swift.png" alt="typescript"  height="60" />
+      <img src="./assets/swift.png" alt="typescript"  height="60px" />
     </td>
   </tr>
   <tr>
