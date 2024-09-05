@@ -14,24 +14,24 @@
 <table>
   <tr>
     <td>
-      <center><img src="./assets/flutter.png" alt="flutter" height="60" /></center>
+      <img src="./assets/flutter.png" alt="flutter" height="60" />
     </td>
     <td>
-      <center><img src="./assets/swiftui.png" alt="swiftui" height="60" /></center>
+      <img src="./assets/swiftui.png" alt="swiftui" height="60" />
     </td>
     <td>
-      <center><img src="./assets/react.webp" alt="reactjs"  height="60" /></center>
+      <img src="./assets/react.webp" alt="reactjs"  height="60" />
     </td>
   </tr>
   <tr>
     <td>
-      <center><b>Flutter</b></center>
+      <b>Flutter</b>
     </td>
     <td>
-     <center><b>SwiftUI</b></center>
+      <b>SwiftUI</b>
     </td>
     <td>
-      <center><b>React.js</b></center>
+      <b>React.js</b>
     </td>
   </tr>
 </table>
@@ -41,30 +41,30 @@
 <table>
   <tr>
     <td>
-      <center><img src="./assets/dart.png" alt="dart" height="60" /></center>
+      <img src="./assets/dart.png" alt="dart" height="60" />
     </td>
     <td>
-      <center><img src="./assets/javascript.png" alt="javascript" height="60" /></center>
+      <img src="./assets/javascript.png" alt="javascript" height="60" />
     </td>
     <td>
-      <center><img src="./assets/typescript.png" alt="typescript"  height="60" /></center>
+      <img src="./assets/typescript.png" alt="typescript"  height="60" />
     </td>
     <td>
-      <center><img src="./assets/swift.png" alt="typescript"  height="60" /></center>
+      <img src="./assets/swift.png" alt="typescript"  height="60" />
     </td>
   </tr>
   <tr>
     <td>
-      <b><center>Dart</center></b>
+      <b>Dart</b>
     </td>
     <td>
-      <b><center>JavaScript</center></b>
+      <b>JavaScript</b>
     </td>
     <td>
-      <b><center>TypeScript</center></b>
+      <b>TypeScript</b>
     </td>
     <td>
-      <b><center>Swift</center></b>
+      <b>Swift</b>
     </td>
   </tr>
 </table>
