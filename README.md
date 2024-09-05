@@ -13,24 +13,24 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center" valign="middle">
       <img src="./assets/flutter.png" alt="flutter" height="60" />
     </td>
-    <td>
+    <td align="center" valign="middle">
       <img src="./assets/swiftui.png" alt="swiftui" height="60" />
     </td>
-    <td>
+    <td align="center" valign="middle">
       <img src="./assets/react.webp" alt="reactjs"  height="60" />
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center" valign="middle">
       <b>Flutter</b>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <b>SwiftUI</b>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <b>React.js</b>
     </td>
   </tr>
@@ -40,30 +40,30 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center" valign="middle">
       <img src="./assets/dart.png" alt="dart" height="60" />
     </td>
-    <td>
+    <td align="center" valign="middle">
       <img src="./assets/javascript.png" alt="javascript" height="60" />
     </td>
-    <td>
+    <td align="center" valign="middle">
       <img src="./assets/typescript.png" alt="typescript"  height="60" />
     </td>
-    <td>
+    <td align="center" valign="middle">
       <img src="./assets/swift.png" alt="typescript"  height="60" />
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center" valign="middle">
       <b>Dart</b>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <b>JavaScript</b>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <b>TypeScript</b>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <b>Swift</b>
     </td>
   </tr>
