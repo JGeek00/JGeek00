@@ -11,38 +11,60 @@
 
 <h4>Frameworks/libraries</h4>
 
-<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; font-size: 14px">
-  <div style="display: flex; flex-direction: column; align-items: center">
-    <img src="./assets/flutter.png" alt="flutter" style="height: 60px; margin-bottom: 16px" />
-    <b>Flutter</b>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center">
-    <img src="./assets/swiftui.png" alt="swiftui" style="height: 60px; margin-bottom: 16px" />
-    <b>SwiftUI</b>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center">
-    <img src="./assets/react.webp" alt="reactjs" style="height: 60px; margin-bottom: 16px" />
-    <b>React.js</b>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <center><img src="./assets/flutter.png" alt="flutter" height="60" /></center>
+    </td>
+    <td>
+      <center><img src="./assets/swiftui.png" alt="swiftui" height="60" /></center>
+    </td>
+    <td>
+      <center><img src="./assets/react.webp" alt="reactjs"  height="60" /></center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center><b>Flutter</b></center>
+    </td>
+    <td>
+     <center><b>SwiftUI</b></center>
+    </td>
+    <td>
+      <center><b>React.js</b></center>
+    </td>
+  </tr>
+</table>
 
 <h4>Languages</h4>
 
-<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; font-size: 14px">
-  <div style="display: flex; flex-direction: column; align-items: center">
-    <img src="./assets/dart.png" alt="dart" style="height: 60px; margin-bottom: 16px" />
-    <b>Dart</b>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center">
-    <img src="./assets/javascript.png" alt="javascript" style="height: 60px; margin-bottom: 16px" />
-    <b>JavaScript</b>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center">
-    <img src="./assets/typescript.png" alt="typescript" style="height: 60px; margin-bottom: 16px" />
-    <b>TypeScript</b>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center">
-    <img src="./assets/swift.png" alt="swift" style="height: 60px; margin-bottom: 16px" />
-    <b>Swift</b>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <center><img src="./assets/dart.png" alt="dart" height="60" /></center>
+    </td>
+    <td>
+      <center><img src="./assets/javascript.png" alt="javascript" height="60" /></center>
+    </td>
+    <td>
+      <center><img src="./assets/typescript.png" alt="typescript"  height="60" /></center>
+    </td>
+    <td>
+      <center><img src="./assets/swift.png" alt="typescript"  height="60" /></center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><center>Dart</center></b>
+    </td>
+    <td>
+      <b><center>JavaScript</center></b>
+    </td>
+    <td>
+      <b><center>TypeScript</center></b>
+    </td>
+    <td>
+      <b><center>Swift</center></b>
+    </td>
+  </tr>
+</table>
