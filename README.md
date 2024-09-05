@@ -1,13 +1,15 @@
-# JGeek00
-##### Welcome to my personal repository!
+<h1>JGeek00</h1>
+<b>Welcome to my personal repository!</b>
 
-### About me
-I am a technology enthusiast and frontend developer (mobile and web). I enjoy learning and discovering new things about this world. In my free time I like to research new features and develop applications for everyone. Some of that applications are available on the Google Play Store and on the App Store.
+<h3>About me</h3>
+<p>
+  I am a technology enthusiast and frontend developer (mobile and web). I enjoy learning and discovering new things about this world. In my free time I like to research new features and develop applications for everyone. Some of that applications are available on the Google Play Store and on the App Store.
+</p>
 
-### Technologies
-Here's a list of the technologies that I use.
+<h3>Technologies</h3>
+<p>Here's a list of the technologies that I use.</p>
 
-#### Frameworks/libraries
+<h4>Frameworks/libraries</h4>
 
 <div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; font-size: 14px">
   <div style="display: flex; flex-direction: column; align-items: center">
@@ -24,7 +26,7 @@ Here's a list of the technologies that I use.
   </div>
 </div>
 
-#### Languages
+<h4>Languages</h4>
 
 <div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; font-size: 14px">
   <div style="display: flex; flex-direction: column; align-items: center">
