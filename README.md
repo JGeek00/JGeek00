@@ -1,5 +1,10 @@
 <h1>JGeek00</h1>
 <b>Welcome to my personal repository!</b>
+<br>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JGeek00&show_icons=true&count_private=true" />
+</div>
 
 <h3>About me</h3>
 <p>
