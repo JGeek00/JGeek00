@@ -17,6 +17,55 @@
   <img src="./assets/app-store.svg" height="50px">
 </div>
 
+<h3>Main projects</h3>
+<ul>
+  <li>
+    <h5>⛽️ Fuel Stations Spain (HispaFuel)</h5>
+    <p>
+      Fuel Station Spain is a project that combines a mobile app for iOS and a REST API created with Express.js. The objective of this project is to show the user the service stations around his location, help him to find the cheapest one, and know how to reach it. The API gets it's from the Spanish government public API.
+    </p>
+    <p>
+      <b>Links:</b> <a href="https://apps.apple.com/es/app/hispafuel-gasolineras-espa%C3%B1a/id6720709096">iOS App Store</a>, <a href="https://github.com/JGeek00/fuel-stations-spain-ios">iOS app repository</a>, <a href="https://github.com/JGeek00/fuel-stations-spain-api">API repository</a>
+    </p>
+  </li>
+  <li>
+    <h5>🔗 MyLinks for Linkwarden</h5>
+    <p>
+      My Links is a <a href="https://linkwarden.app">Linkwarden</a> client for iOS and macOS. Linkwarden is a service to store and organize links to websites, it didn't had a mobile app, so I decided to create an iOS client. This app has been created using SwiftUI.
+    </p>
+    <p>
+      <b>Links:</b> <a href="https://apps.apple.com/es/app/my-links-para-linkwarden/id6504573402">App Store</a>
+    </p>
+  </li>
+  <li>
+    <h5>🖥️ Server Status</h5>
+    <p>
+      Server Status is a client for <a href="https://github.com/dani3l0/Status">Status</a>, a service that allows you to get realtime information about the status of your server's hardware. This app has been created using SwiftUI, and it also offers some widgets for the home screen.
+    </p>
+    <p>
+      <b>Links:</b> <a href="https://apps.apple.com/es/app/server-status-server-monitor/id6479648296">iOS App Store</a>, <a href="https://github.com/JGeek00/server-status">iOS app repository</a>
+    </p>
+  </li>
+  <li>
+    <h5>🔗 Linkdy</h5>
+    <p>
+      Linkdy is a client for <a href="https://github.com/sissbruecker/linkding">Linkding</a>, a service to save an organize your bookmarks. This app has been created using Flutter, and the app is offered for iOS and Android.
+    </p>
+    <p>
+      <b>Links:</b> <a href="https://apps.apple.com/es/app/linkdy/id6479930976">iOS App Store</a>, <a href="https://play.google.com/store/apps/details?id=com.jgeek00.linkdy">Google Play Store</a>, <a href="https://github.com/JGeek00/linkdy">app repository</a>
+    </p>
+  </li>
+  <li>
+    <h5>🔒 AdGuard Home Manager</h5>
+    <p>
+      AdGuard Home Manager is a client for <a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a>, an open source DNS proxy for your home network. I created a mobile app using Flutter to have a better control using the mobile phone. It's available for Android. This is one of the first mobile apps I that have created.
+    </p>
+    <p>
+      <b>Links:</b> <a href="https://play.google.com/store/apps/details?id=com.jgeek00.adguard_home_manager">Google Play Store</a>, <a href="https://github.com/JGeek00/adguard-home-manager">app repository</a>
+    </p>
+  </li>
+</ul>
+
 <h3>Technologies</h3>
 <p>Here's a list of the technologies that I use.</p>
 
