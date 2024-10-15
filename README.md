@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JGeek00&show_icons=true&count_private=true" />
 </div>
 
-<h3>About me</h3>
+<h2>About me</h2>
 <p>
   I am a technology enthusiast and frontend developer (mobile and web). I enjoy learning and discovering new things about this world. In my free time I like to research new features and develop applications for everyone. Some of that applications are available on the Google Play Store and on the App Store.
 </p>
@@ -17,10 +17,10 @@
   <img src="./assets/app-store.svg" height="50px">
 </div>
 
-<h3>Main projects</h3>
+<h2>Main projects</h2>
 <ul>
   <li>
-    <h5>⛽️ Fuel Stations Spain (HispaFuel)</h5>
+    <h4>⛽️ Fuel Stations Spain (HispaFuel)</h4>
     <p>
       Fuel Station Spain is a project that combines a mobile app for iOS and a REST API created with Express.js. The objective of this project is to show the user the service stations around his location, help him to find the cheapest one, and know how to reach it. The API gets it's from the Spanish government public API.
     </p>
@@ -29,7 +29,7 @@
     </p>
   </li>
   <li>
-    <h5>🔗 MyLinks for Linkwarden</h5>
+    <h4>🔗 MyLinks for Linkwarden</h4>
     <p>
       My Links is a <a href="https://linkwarden.app">Linkwarden</a> client for iOS and macOS. Linkwarden is a service to store and organize links to websites, it didn't had a mobile app, so I decided to create an iOS client. This app has been created using SwiftUI.
     </p>
@@ -38,7 +38,7 @@
     </p>
   </li>
   <li>
-    <h5>🖥️ Server Status</h5>
+    <h4>🖥️ Server Status</h4>
     <p>
       Server Status is a client for <a href="https://github.com/dani3l0/Status">Status</a>, a service that allows you to get realtime information about the status of your server's hardware. This app has been created using SwiftUI, and it also offers some widgets for the home screen.
     </p>
@@ -47,7 +47,7 @@
     </p>
   </li>
   <li>
-    <h5>🔗 Linkdy</h5>
+    <h4>🔗 Linkdy</h4>
     <p>
       Linkdy is a client for <a href="https://github.com/sissbruecker/linkding">Linkding</a>, a service to save an organize your bookmarks. This app has been created using Flutter, and the app is offered for iOS and Android.
     </p>
@@ -56,7 +56,7 @@
     </p>
   </li>
   <li>
-    <h5>🔒 AdGuard Home Manager</h5>
+    <h4>🔒 AdGuard Home Manager</h4>
     <p>
       AdGuard Home Manager is a client for <a href="https://github.com/AdguardTeam/AdGuardHome">AdGuard Home</a>, an open source DNS proxy for your home network. I created a mobile app using Flutter to have a better control using the mobile phone. It's available for Android. This is one of the first mobile apps I that have created.
     </p>
@@ -66,10 +66,10 @@
   </li>
 </ul>
 
-<h3>Technologies</h3>
+<h2>Technologies</h2>
 <p>Here's a list of the technologies that I use.</p>
 
-<h4>Frameworks/libraries</h4>
+<h3>Frameworks/libraries</h3>
 
 <table>
   <tr>
@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-<h4>Languages</h4>
+<h3>Languages</h3>
 
 <table>
   <tr>
@@ -129,7 +129,7 @@
   </tr>
 </table>
 
-<h3>Donate</h3>
+<h2>Donate</h2>
 If you like my work and you want to support it, consider giving me a tip.
 <div align="center">
 <br>
