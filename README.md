@@ -1,5 +1,5 @@
 <h1>JGeek00</h1>
-<b>Welcome to my personal repository!</b>
+<b>Welcome to my personal projects!</b>
 <br>
 <br>
 <div align="center">
@@ -43,7 +43,7 @@
       Server Status is a client for <a href="https://github.com/dani3l0/Status">Status</a>, a service that allows you to get realtime information about the status of your server's hardware. This app has been created using SwiftUI, and it also offers some widgets for the home screen.
     </p>
     <p>
-      <b>Links:</b> <a href="https://apps.apple.com/es/app/server-status-server-monitor/id6479648296">iOS App Store</a>, <a href="https://github.com/JGeek00/server-status">iOS app repository</a>
+      <b>Links:</b> <a href="https://apps.apple.com/es/app/server-status-server-monitor/id6479648296">iOS App Store</a>, <a href="https://github.com/JGeek00/server-status">iOS app repository</a>, <a href="https://play.google.com/store/apps/details?id=com.jgeek00.ServerStatus">Google Play Store</a>, <a href="https://github.com/JGeek00/server-status-android">Android app repository</a>
     </p>
   </li>
   <li>
@@ -65,69 +65,6 @@
     </p>
   </li>
 </ul>
-
-<h2>Technologies</h2>
-<p>Here's a list of the technologies that I use.</p>
-
-<h3>Frameworks/libraries</h3>
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="./assets/flutter.png" alt="flutter" height="60px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="./assets/swiftui.png" alt="swiftui" height="60px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="./assets/react.webp" alt="reactjs"  height="60px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <b>Flutter</b>
-    </td>
-    <td align="center" valign="middle">
-      <b>SwiftUI</b>
-    </td>
-    <td align="center" valign="middle">
-      <b>React.js</b>
-    </td>
-  </tr>
-</table>
-
-<h3>Languages</h3>
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="./assets/dart.png" alt="dart" height="60px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="./assets/javascript.png" alt="javascript" height="60px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="./assets/typescript.png" alt="typescript"  height="60px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="./assets/swift.png" alt="typescript"  height="60px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <b>Dart</b>
-    </td>
-    <td align="center" valign="middle">
-      <b>JavaScript</b>
-    </td>
-    <td align="center" valign="middle">
-      <b>TypeScript</b>
-    </td>
-    <td align="center" valign="middle">
-      <b>Swift</b>
-    </td>
-  </tr>
-</table>
 
 <h2>Donate</h2>
 If you like my work and you want to support it, consider giving me a tip.
